@@ -1,0 +1,12 @@
+{
+    "category": "default",
+    "name": "BWA aligner",
+    "img": "/brave-api/store-dir/pybrave/genomic-analysis-test/tools/main.png?v=1777536629",
+    "app_id": "bc577414-babb-4e3e-8724-5c0a6cda4e78",
+    "version": "v1.1.6",
+    "update_info": "tewt3t3",
+    "tags": [
+        "RNA",
+        "BWA"
+    ]
+}
